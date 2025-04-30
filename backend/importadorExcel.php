@@ -26,7 +26,7 @@ class ImportadorExcel {
         }
         
         // Cargar la librería SimpleXLSX
-        require_once 'simplexlsx/SimpleXLSX.php';
+        require_once 'SimpleXLSX.php';
 
        
 
